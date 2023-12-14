@@ -1,0 +1,108 @@
+[debug] [2023-12-14T15:41:12.667Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T15:41:12.669Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-12-14T15:41:12.670Z] CLI Version:   13.0.1
+[debug] [2023-12-14T15:41:12.670Z] Platform:      win32
+[debug] [2023-12-14T15:41:12.670Z] Node Version:  v18.18.2
+[debug] [2023-12-14T15:41:12.671Z] Time:          Thu Dec 14 2023 16:41:12 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T15:41:12.671Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-14T15:41:12.684Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T15:41:13.094Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-12-14T15:41:13.096Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2023-12-14T15:41:22.767Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-14T15:47:08.541Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T15:47:08.543Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-12-14T15:47:08.543Z] CLI Version:   13.0.1
+[debug] [2023-12-14T15:47:08.543Z] Platform:      win32
+[debug] [2023-12-14T15:47:08.544Z] Node Version:  v18.18.2
+[debug] [2023-12-14T15:47:08.544Z] Time:          Thu Dec 14 2023 16:47:08 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T15:47:08.544Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T15:47:18.674Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-14T15:48:56.164Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T15:48:56.166Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --debug login
+[debug] [2023-12-14T15:48:56.166Z] CLI Version:   13.0.1
+[debug] [2023-12-14T15:48:56.166Z] Platform:      win32
+[debug] [2023-12-14T15:48:56.166Z] Node Version:  v18.18.2
+[debug] [2023-12-14T15:48:56.167Z] Time:          Thu Dec 14 2023 16:48:56 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T15:48:56.167Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T15:49:06.298Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-14T15:50:49.125Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T15:50:49.127Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --debug login
+[debug] [2023-12-14T15:50:49.127Z] CLI Version:   13.0.1
+[debug] [2023-12-14T15:50:49.127Z] Platform:      win32
+[debug] [2023-12-14T15:50:49.127Z] Node Version:  v18.18.2
+[debug] [2023-12-14T15:50:49.128Z] Time:          Thu Dec 14 2023 16:50:49 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T15:50:49.128Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T15:50:59.258Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-14T15:54:05.981Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T15:54:05.983Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --debug login
+[debug] [2023-12-14T15:54:05.984Z] CLI Version:   13.0.1
+[debug] [2023-12-14T15:54:05.984Z] Platform:      win32
+[debug] [2023-12-14T15:54:05.984Z] Node Version:  v18.18.2
+[debug] [2023-12-14T15:54:05.985Z] Time:          Thu Dec 14 2023 16:54:05 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T15:54:05.985Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T15:54:16.119Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-14T15:55:05.559Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T15:55:05.560Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --debug login
+[debug] [2023-12-14T15:55:05.561Z] CLI Version:   13.0.1
+[debug] [2023-12-14T15:55:05.561Z] Platform:      win32
+[debug] [2023-12-14T15:55:05.561Z] Node Version:  v18.18.2
+[debug] [2023-12-14T15:55:05.562Z] Time:          Thu Dec 14 2023 16:55:05 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T15:55:05.562Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T15:55:15.694Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-14T16:08:26.766Z] ----------------------------------------------------------------------
+[debug] [2023-12-14T16:08:26.768Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --debug login
+[debug] [2023-12-14T16:08:26.768Z] CLI Version:   13.0.1
+[debug] [2023-12-14T16:08:26.768Z] Platform:      win32
+[debug] [2023-12-14T16:08:26.768Z] Node Version:  v18.18.2
+[debug] [2023-12-14T16:08:26.769Z] Time:          Thu Dec 14 2023 17:08:26 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2023-12-14T16:08:26.769Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as angelo.guzzo83@gmail.com
+[debug] [2023-12-14T16:08:36.902Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\GZZNGL83P24A323Y\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
